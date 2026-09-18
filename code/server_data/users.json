@@ -1,0 +1,16 @@
+{
+    "Alice": {
+        "password": "HIi7su2VjcJxVBiP+K34mcq+Fnnrks13PNdqs/Jwos4BlY3ZHwAC1d/xvRXA4TxK",
+        "contacts": [
+            "Bob"
+        ],
+        "pending_requests": []
+    },
+    "Bob": {
+        "password": "7DGTNH+6mU2ftP+WoG9yl4DoQP6094dS9MG1sYfm3FoKDUHelDg0SapOd63HpmJ/",
+        "contacts": [
+            "Alice"
+        ],
+        "pending_requests": []
+    }
+}
